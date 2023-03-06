@@ -29,8 +29,6 @@ sequenceDiagram
 
     browser->>server: GET https://studies.cs.helsinki.fi/favicon.ico
     activate server
-    server-->>browser: Course stats hyperlink icon
+    server-->>browser: Browser tab icon
     deactivate server
-
-    Note right of browser: This is the same file used in the traditional Notes page
 ```

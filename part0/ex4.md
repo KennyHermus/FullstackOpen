@@ -36,8 +36,6 @@ sequenceDiagram
 
     browser->>server: GET https://studies.cs.helsinki.fi/favicon.ico
     activate server
-    server-->>browser: Course stats hyperlink icon
+    server-->>browser: Browser tab icon aka favicon
     deactivate server
-
-    Note left of server: This icon does not seem to be visible on the Notes page
 ```

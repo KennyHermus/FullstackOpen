@@ -4,16 +4,17 @@ This is the directory for my submission for Part 1 of the Fullstack Open course
 
 ## About
 
-This part of the course covered the basics of web development with JavaScript and React including JSX, event-handlers, and rendering components. There were three main applications that were built throughout this lesson, being courseinfo, unicafe, and anecdotes, each with their own subdirectory. I also have a subdirectory named lessonCode which contains the source code of the examples and follow-along code throughout this part.
+This part of the course covered the basics of web development with JavaScript and React including JSX, objects, event-handlers, and rendering components. There were three main applications that were built throughout this lesson, being courseinfo, unicafe, and anecdotes, each with their own subdirectory. I also have a subdirectory named lessonCode which contains the source code of the examples and follow-along code throughout this part.
 
 ## Course Info
 
-These exercises revolved around presenting course information through a React web application.
+These exercises revolved around presenting course information through a React web application and a course object as a data input.
 
 ### Exercises 1 & 2
 Exercises 1 & 2 tested knowledge of JSX, components, and passing in arguments to components. They also touched on nesting components.
 
 ### Exercises 3 - 5
+Exercises 3 - 5 reformatted the web-app by aggregating the input variables to an object and passing this object into each component. Thus, each component definition required accessing the various object attributes and some attributes' array elements.
 
 ## Unicafe
 

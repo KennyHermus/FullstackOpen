@@ -1,6 +1,6 @@
 # Part 0
 
-This is the directory for my submission for Part 0 of the Fullstack Open course
+This is the directory for my submission for Part 0 of the Fullstack Open course.
 
 ## About
 
@@ -21,8 +21,11 @@ Exercise 6 encompassed creating a sequence diagram for the creation of a new not
 
 ## Side Notes
 
-Exercises 1-3 were documentation readings and did not require file submissions.
-I do not own and did not create any of the source material. All credit is to the University of Helsinki and the Fullstack Open team.
-The solutions of course are my own.
+- Exercises 1-3 were documentation readings and did not require file submissions.
 
-P.S. This documentation is unnecessary in terms of course requirements and is solely for my bettering my knowledge of documenting repositories via README files. Of course, you may refer to this file and any README's for subsequent parts to help clarify any aspects of that particular submission directory.
+- <sub>This documentation is unnecessary in terms of course requirements and is solely for my bettering my knowledge of documenting repositories via README files. Of course, you may refer to this file and any README's for subsequent parts to help clarify any aspects of that particular submission directory.</sub>
+
+## Credits
+
+**I do not own and did not create any of the source material. _All credit_ is to the _University of Helsinki_ and the _Fullstack Open team._**
+***The solutions, of course, are my own.***

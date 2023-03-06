@@ -25,10 +25,10 @@ Exercises 6 - 11 related to creating the unicafe and formatting its relevant sta
 
 ## Anecdotes
 
-
+These exercises displayed random anecdotes from [Quotes for Software Engineers](https://www.comp.nus.edu.sg/~damithch/pages/SE-quotes.htm). Users can navigate through the various anecdotes and vote for their favorite one. The anecdote with the most votes will be displayed at the bottom of the screen.
 
 ### Exercises 12 - 14
-
+Exercises 12 - 14 built the anecdote display and the voting system. They honed in on using more complex states and interactions.
 
 ## Side Notes
 
@@ -42,7 +42,7 @@ As stated in [Fullstack Open Part 1](https://fullstackopen.com/en/part1/introduc
 > _The application that we will start working on in this exercise will be further developed in a few of the following exercises. In this and other upcoming exercise sets in this course, it is enough to only submit the final state of the application._
 As such, all exercises relating to one application in this part of the course will be in the same directory, and the same files.
 
-+ <sub>README's are a very straightforward concept and are not difficult to make. As such, I will not be documenting subsequent parts as well as I documented part 0 in order to save time.</sub>
+<sub>README's are a very straightforward concept and are not difficult to make. As such, I will not be documenting subsequent parts as well as I documented part 0 in order to save time.</sub>
 
 ## Credits
 

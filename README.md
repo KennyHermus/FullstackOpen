@@ -6,11 +6,15 @@ This repository will be updated continuously as I finish more exercises and prog
 
 ## Part 0
 
-[Fundamentals of Web Apps](https://fullstackopen.com/en/part0)
+[Fundamentals of Web apps](https://fullstackopen.com/en/part0)
 
 ## Part 1
 
 [Introduction to React](https://fullstackopen.com/en/part1)
+
+## Part 2
+
+[Communicating with server](https://fullstackopen.com/en/part2)
 
 ## Credits
 

@@ -6,12 +6,17 @@ This is the directory for my submission for Part 2 of the Fullstack Open course
 
 This part of the course covers modules, rendering collections, forms, interacting with a server, and styling via CSS.
 
-## Course Info Con't
-
-This expands upon the Course Info application created in Part 1 by adding functionality that allows for any number of parts or courses, as well as modularity.
-
 ### Exercises 1 - 5
 These exercises improved the Course Info application created in Part 1. They focused on refactoring and restructuring components, utilizing the built-in Array reduce function on an array of objects, and modularizing the components.
+
+### Exercises 6 - 10
+Created a phonebook that unique names can be added to (alert displayed if name is not unique). Done through forms.
+
+### Exercises 10 - 17
+Created a server to hold the phonebook data. Used axios get, put, post, delete to fetch, update, add, and delete information on the server respectively. Also covers basic styling with css as well as error handling.
+
+### Exercises 18 - 20
+Work with online APIs to display country data and weather data.
 
 ## Side Notes
 

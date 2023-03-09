@@ -1,10 +1,5 @@
 const Person = ({person, deleteHandler}) => {
-    return (
-        <div>
-            <p>{person.name} {person.number}</p>
-            <button onClick={deleteHandler}>delete</button>
-        </div>
-    )
+    return <p>{person.name} {person.number} <button onClick={deleteHandler}>delete</button> </p>
 }
 
 export default Person

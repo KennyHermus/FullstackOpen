@@ -19,6 +19,7 @@ Created a server to hold the phonebook data. Used axios get, put, post, delete t
 Work with online APIs to display country data and weather data.
 
 ## Side Notes
+My .env file with my api key is of course not included in this directory. Make sure to set your api key before attempting to use the countries React app. The countries api can be found at https://restcountries.com and the weather api can be found at https://openweathermap.org.
 
 Each subdirectory is its own react application built with ```create-react-app``` and can be run using the following commands: 
 ```shell 

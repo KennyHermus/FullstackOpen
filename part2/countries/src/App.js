@@ -1,7 +1,7 @@
 import {useState} from 'react'
 import {useEffect} from 'react'
 import Countries from './components/Countries' 
-import countryService from './services/backend'
+import services from './services/backend'
 
 function App() {
   const [newCountry, setNewCountry] = useState('')
@@ -11,8 +11,8 @@ function App() {
 
   const [countries, setCountries] = useState([])
   useEffect(() => {
-    countryService
-    .getAll()
+    services
+    .getCountries()
     .then(countries => setCountries(countries))
   } , [])
 

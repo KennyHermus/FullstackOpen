@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const getAll = () => {
+const getCountries = () => {
     return (
         axios
         .get(`https://restcountries.com/v3.1/all`)
@@ -9,12 +9,12 @@ const getAll = () => {
 }
 
 const getWeather = country => {
-    console.log(country)
     return (
         axios
-        .get(`https://api.openweathermap.org/data/2.5/weather?lat=${country.latlng[0]}&lon=${country.latlng[1]}&appid=${process.env.REACT_APP_API_KEY}`)
+        .get(`https://api.openweathermap.org/data/2.5/weather?q=${country.capital}&appid=${process.env.REACT_APP_API_KEY}`)
         .then(response => response.data)
     )
 }
 
-export default {getAll, getWeather}
+const services = {getCountries, getWeather}
+export default services

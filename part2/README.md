@@ -23,7 +23,7 @@ My .env file with my api key is of course not included in this directory. Make s
 
 Each subdirectory is its own react application built with ```create-react-app``` and can be run using the following commands: 
 ```shell 
-cd part1/name_of_subdirectory
+cd part2/name_of_subdirectory
 npm start
 ```
 

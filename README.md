@@ -16,6 +16,10 @@ This repository will be updated continuously as I finish more exercises and prog
 
 [Communicating with server](https://fullstackopen.com/en/part2)
 
+## Part 3
+
+[Programming a server with NodeJS and Express](https://fullstackopen.com/en/part3)
+
 ## Credits
 
 **I do not own and did not create any of the source material. _All credit_ is to the _University of Helsinki_ and the _Fullstack Open team._**
